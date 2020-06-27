@@ -1,3 +1,3 @@
 Hugo Tiburtino's personal page
 
-Source code at github.com/hugotiburtino/hugotiburtino.github.io-src
+Source code at https://github.com/hugotiburtino/hugotiburtino.github-src
