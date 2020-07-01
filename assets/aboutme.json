@@ -1,0 +1,63 @@
+{
+    "completeName": "Hugo Bezerra Tiburtino",
+    "elevatorPitch": "Full Stack Developer <br> Angular, Spring Boot and Flask <br> MuleSoft Developer <br> Linux fan, open source enthusiast <br> Last but not least, PhD in Philosophy",
+    "city": "Munich",
+    "status": "Embracing DevOps",
+    "skills": [
+        {
+            "subject": "Java"
+        },
+        {
+            "subject": "Python 3"
+        },
+        {
+            "subject": "JavaScript"
+        },
+        {
+            "subject": "HTML5",
+            "categories": [1]
+        },
+        {
+            "subject": "CSS3",
+            "categories": [1]
+        },
+        {
+            "subject": "Linux"
+        },
+        {
+            "subject": "Spring Boot",
+            "categories": [0]
+        },
+        {
+            "subject": "Flask",
+            "categories": [0]
+        },
+        {
+            "subject": "MuleSoft"
+        },
+        {
+            "subject": "Docker"
+        },
+        {
+            "subject": "Jenkins"
+        },
+        {
+            "subject": "RESTful API"
+        },
+        {
+            "subject": "Git"
+        },
+        {
+            "subject": "Bootstrap 4",
+            "categories": [1]
+        },
+        {
+            "subject": "Node.js",
+            "categories": [0]
+        },
+        {
+            "subject": "Angular",
+            "categories": [1]
+        }
+    ]
+}
